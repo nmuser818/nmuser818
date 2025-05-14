@@ -10,7 +10,7 @@ Skills: Python / REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nmuser818)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/neha-murthy-nm05/)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmuser818)](https://github.com/anuraghazra/github-readme-stats)
+![nmuser818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmuser818&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **nmuser818/nmuser818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
