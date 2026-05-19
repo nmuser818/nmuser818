@@ -25,8 +25,6 @@ As someone who specializes in both the domains of sociology and software enginee
 
 ### 📚 Research, Problem Solving & Mentorship
 * **Academic Research:** Presenting research covering influencer bartering networks and the RTI landscape at an upcoming international conference in Glasgow.
-* **Mentorship:** Teaching Assistant for Data Structures and Algorithms (DSA), responsible for generating lab materials, designing test cases, and evaluating student logic.
-* **Competitive Programming:** Actively participating in algorithmic problem solving across platforms like Codeforces, AtCoder, and Project Euler.
 * **Quantitative Challenges:** Experience analyzing order books and designing strategies for algorithmic trading and market-making simulations.
 
 ---
