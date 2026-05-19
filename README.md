@@ -1,34 +1,35 @@
-### Hi there 👋, my name is Neha!
-#### Computer Science Student
-I'm Neha from bangalore. I am in my 2nd year of btech, studying in IIIT Hyderabad. I really enjoy learning new langauges and frameworks. I also like learning about ui, ux, and design tools in gerneral.
+# Hi, I'm Neha Murthy! 👋
 
+I am a third-year Dual Degree (B.Tech in Computer Science & MS in Computing and Human Sciences by Research) student at IIIT Hyderabad.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neha-murthy-nm05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-murthy-nm05" height="30" width="40" /></a>
+I am a versatile builder who thrives on exploring diverse technical domains, and I am passionate about bridging the gap between rigorous theoretical concepts and real-world applications. I love jumping into new domains and building impactful projects.
+
+As someone who specializes in both the domains of sociology and software engineering, I focus on engineering technical infrastructure that accounts for human contexts—translating qualitative insights from areas like digital intermediaries and influencer economies into scalable, data-driven platforms.
+
+🔍 **Actively seeking internship opportunities** where I can apply my systems engineering skills and multidisciplinary research background to complex, real-world problems.
+
+---
+
+### 🛠️ Technical Stack
+* **Languages:** C, C++, Python
+* **High-Performance & Systems:** Linux (Bash/Shell)
+* **Developer Tools:** Git, GitHub
+
+---
+
+### 🚀 Highlighted Projects
+* **Custom Terminal Shell (C/C++):** Built a functional command-line interpreter demonstrating low-level OS mechanics, process management, and I/O handling.
+* **AI Dataset Refinement (Python):** Curated and processed over 540 audio samples for the FLEURS Tamil split to optimize linguistic representation in AI models.
+
+---
+
+### 📚 Research, Problem Solving & Mentorship
+* **Academic Research:** Presenting research covering influencer bartering networks and the RTI landscape at an upcoming international conference in Glasgow.
+* **Mentorship:** Teaching Assistant for Data Structures and Algorithms (DSA), responsible for generating lab materials, designing test cases, and evaluating student logic.
+* **Competitive Programming:** Actively participating in algorithmic problem solving across platforms like Codeforces, AtCoder, and Project Euler.
+* **Quantitative Challenges:** Experience analyzing order books and designing strategies for algorithmic trading and market-making simulations.
+
+---
+<p align="center">
+  <i>Feel free to explore my repositories or reach out for opportunities!</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-![nmuser818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmuser818&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-![nmuser818's Stats](https://github-readme-stats.vercel.app/api?username=nmuser818&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
-
-<!--
-**nmuser818/nmuser818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
