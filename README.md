@@ -1,6 +1,6 @@
 # Hi, I'm Neha Murthy! 👋
 
-I am a third-year Dual Degree (B.Tech in Computer Science & MS in Computing and Human Sciences by Research) student at IIIT Hyderabad.
+I am a fourth-year Dual Degree (B.Tech in Computer Science & MS in Computing and Human Sciences by Research) student at IIIT Hyderabad.
 
 I am a versatile builder who thrives on exploring diverse technical domains, and I am passionate about bridging the gap between rigorous theoretical concepts and real-world applications. I love jumping into new domains and building impactful projects.
 
